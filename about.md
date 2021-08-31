@@ -13,7 +13,7 @@ I am originally from the Philippines and I came to the US last 2014 through the 
 
 I love to travel but that is put on hold at the moment due to the pandemic and my busy schedule. I have been mostly to Asia and the Americas and I can't wait to visit Europe soon.
 
-![travelmemories](jerryendrina.github.io/images/collage.png)
+![travelmemories](https://github.com/jerryendrina/jerryendrina.github.io/blob/master/images/collage.png)
 
 ### Contact me
 
