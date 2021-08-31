@@ -8,6 +8,8 @@ I am a high school Math teacher pursuing Masters of Statistics degree at NC Stat
 
 I am originally from the Philippines and I came to the US last 2014 through the teacher exchange program. I have been teaching for 15 years and I thrilled to try something else. 
 
+![Filipio](/images/avatar.png)
+
 
 ### More Information
 
