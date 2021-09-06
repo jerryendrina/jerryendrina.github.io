@@ -33,4 +33,4 @@ box + geom_boxplot(aes(fill=Species)) +
   stat_summary(fun.y=mean, geom="point", shape=5, size=4) 
 ```
 
-![](/Users/jeremiasendrinajr/Library/Mobile%20Documents/com~apple~CloudDocs/Git%20Repos/jerryendrina.github.io/_posts/2021-9-6-Second-Blog-Post_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](../images/boxplot-1.png)<!-- -->
