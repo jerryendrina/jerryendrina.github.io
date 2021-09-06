@@ -15,7 +15,7 @@ Based on my experiences, I can say that R has better packages and functions whic
 knitr::opts_chunk$set(fig.path = "../images/")
 ```
 
-```{r boxplot, message=FALSE, warning=FALSE}
+```{r boxplot, message=FALSE, warning=FALSE, include=FALSE}
 library(ggplot2)
 
 box <- ggplot(data=iris, aes(x=Species, y=Sepal.Length))
