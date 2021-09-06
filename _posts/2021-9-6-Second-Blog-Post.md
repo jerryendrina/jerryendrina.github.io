@@ -1,0 +1,36 @@
+Programming Background
+================
+Jeremias Endrina
+9/6/2021
+
+## My Thoughts on R
+
+I started my masters program at NC State taking ST555 where I learn how
+to use SAS in gathering, processing, analyzing and presenting data.
+Unfortunately, I have never used SAS again in any of succeeding courses.
+Instead, I used R extensively as it is the required software in all of
+my classes. I had a hard time in most of my classes for I don’t know how
+to use R at that time. I have to spend extra time everyday to learn the
+basic of it and be successful in those courses. Now, in my last semester
+of the program, I am taking ST558 Data Science for Statisticians to
+formalize what I learned about R. I am also enrolled in a Python class
+which has lots of similarities to R in terms of concepts and syntax.
+
+Based on my experiences, I can say that R has better packages and
+functions which are easier to learn. It has packages that are constantly
+being improved. Another is the R Markdown which makes presentation of
+results nicer and easier to reproduce. Thanks to the people behind the
+program who willingly devote their time to make R better.
+
+## Example R Markdown Output
+
+``` r
+library(ggplot2)
+
+box <- ggplot(data=iris, aes(x=Species, y=Sepal.Length))
+box + geom_boxplot(aes(fill=Species)) + 
+  ylab("Sepal Length") + ggtitle("Iris Boxplot") +
+  stat_summary(fun.y=mean, geom="point", shape=5, size=4) 
+```
+
+![](/Users/jeremiasendrinajr/Library/Mobile%20Documents/com~apple~CloudDocs/Git%20Repos/jerryendrina.github.io/_posts/2021-9-6-Second-Blog-Post_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
