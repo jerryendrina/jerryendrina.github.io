@@ -23,3 +23,5 @@ results nicer and easier to reproduce. Thanks to the people behind the
 program who willingly devote their time to make R better.
 
 ## Example R Markdown Output
+
+![](../images/boxplot-1.png)<!-- -->
