@@ -37,7 +37,7 @@ try to plan out the goal and steps to avoid wasting time on the process.
 
 Below are the links to my github repo and the repo itself:
 
-[my github repo](https://github.com/jerryendrina/jerryendrina.github.io)
+[my github repo](https://github.com/jerryendrina/Covid-19-API-Vignette)
 
 [covid 19 API
-Vignette](https://github.com/jerryendrina/Covid-19-API-Vignette)
+Vignette](https://jerryendrina.github.io/Covid-19-API-Vignette/)
