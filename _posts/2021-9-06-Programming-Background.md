@@ -1,5 +1,3 @@
-Programming Background
-================
 Jeremias Endrina
 9/6/2021
 

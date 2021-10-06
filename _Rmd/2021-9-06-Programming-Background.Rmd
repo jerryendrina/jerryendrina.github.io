@@ -1,5 +1,4 @@
 ---
-title: "Programming Background"
 author: "Jeremias Endrina"
 date: "9/6/2021"
 ---
