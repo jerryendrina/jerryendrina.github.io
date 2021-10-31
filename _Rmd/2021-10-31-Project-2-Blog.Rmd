@@ -11,6 +11,9 @@ My partner and I never had any difficulties because despite our busy schedule, w
 
 My big take-aways from this project are the lessons I gained from automating results, realizing how powerful caret package is in machine learning and recognizing that being open and professional contribute a lot to the success of this project. Automating output makes task easy to do while achieving the same results as expected. With the help of the caret package, everything worked smoothly from splitting data to training and test sets to comparing results of model performance using RMSE. Lastly, I am lucky to have a partner who is not just a pro in R but at the same time very professional.  
 
-I am proud to share the results of our project. Below are the links to our Project 2 Repo and github page.
-[github repo]("https://github.com/jerryendrina/ST558-Project2")
-[Project 2 Webpage]("https://jerryendrina.github.io/ST558-Project2/")
+I am proud to share the results of our project. Below are the links to our Project 2 Repo and github page.  
+
+[github repo]("https://github.com/jerryendrina/ST558-Project2")  
+
+[Project 2 Webpage]("https://jerryendrina.github.io/ST558-Project2/")  
+
