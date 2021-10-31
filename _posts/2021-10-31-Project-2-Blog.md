@@ -36,7 +36,7 @@ but at the same time very professional.
 I am proud to share the results of our project. Below are the links to
 our Project 2 Repo and github page.
 
-[github repo](%22https://github.com/jerryendrina/ST558-Project2%22)
+[github repo](https://github.com/jerryendrina/ST558-Project2)
 
 [Project 2
-Webpage](%22https://jerryendrina.github.io/ST558-Project2/%22)
+Webpage](https://jerryendrina.github.io/ST558-Project2/)
